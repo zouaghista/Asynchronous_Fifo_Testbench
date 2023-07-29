@@ -1,0 +1,10 @@
+../VIP/FifoIf.sv
+../VIP/MonitorIf.sv
+../VIP/ReadingAgent.sv
+../VIP/WritingAgent.sv
+../VIP/WritingMonitor.sv
+../VIP/ScoreBoard.sv
+../VIP/FifoChecker.sv
+../Example/Wtest.sv
+../Example/Testbench.sv
+../Example/TestbenchTop.sv
